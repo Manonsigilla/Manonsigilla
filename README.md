@@ -61,6 +61,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
 </div>
 
+
+![Visitor Count](https://profile-counter.glitch.me/{Manonsigilla}/count.svg)
+
+
 ###
 
 <div align="left">
