@@ -62,7 +62,7 @@
 </div>
 
 <div align="center">
-### Visitors counter
+<h3>Visitors counter</h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/{Manonsigilla}/count.svg)
 
