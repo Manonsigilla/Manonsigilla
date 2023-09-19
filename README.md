@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Manon and I'm a student developper from Belgium currently in France</h2>
 
-- 🔭 I’m currently working on HTML, SCSS, Python, PHP, JavaScript
-- 🌱 I’m currently learning MySQL, React, C, WordPress
+- 🔭 I’m currently working on HTML, CSS, Python, PHP, React (JS)
+- 🌱 I’m currently learning MySQL, C, WordPress
 - 👯 I’m looking to collaborate on HTML, SCSS, JavaScript, React
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
