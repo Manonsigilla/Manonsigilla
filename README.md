@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on HTML, CSS, Python, PHP, React (JS)
 - 🌱 I’m currently learning MySQL, C, WordPress
-- 👯 I’m looking to collaborate on HTML, SCSS, JavaScript, React
+- 👯 I’m looking to collaborate on HTML, SCSS, React, PHP
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: sigaudmanon@gmail.com
