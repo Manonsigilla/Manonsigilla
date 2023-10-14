@@ -1,8 +1,8 @@
 <h2 align="left">Hi 👋! My name is Manon and I'm a student developper from Belgium currently in France</h2>
 
-- 🔭 I’m currently working on HTML, CSS, Python, PHP, React (JS)
-- 🌱 I’m currently learning MySQL, C, WordPress
-- 👯 I’m looking to collaborate on HTML, SCSS, React, PHP
+- 🔭 I’m currently working on HTML, CSS, Python, PHP, React (JS), MySQL
+- 🌱 I’m currently learning WordPress
+- 👯 I’m looking to collaborate on HTML, SCSS, React, PHP, MySQL
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: sigaudmanon@gmail.com
@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manonsigilla&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manonsigilla&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <a href="https://github.com/ManonSigilla/github-readme-stats"><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManonSigilla&layout=compact&theme=buefy&hide_border=true" /></a>
 </div>
 
