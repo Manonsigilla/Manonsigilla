@@ -79,8 +79,8 @@
 
 <div align="left">
 <h3>Visitors counter</h3>
-
-![Visitor Count](https://profile-counter.glitch.me/{Manonsigilla}/count.svg)
+  
+  ![Visiteurs](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Manonsigilla&title=Visitors&edge_flat=false)
 
 </div>
 
