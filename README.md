@@ -80,7 +80,7 @@
 <div align="left">
 <h3>Visitors counter</h3>
   
-  ![](https://vbr.nathanchung.dev/badge?page_id=visitor-badge-reloaded-visitors&color=ffb3c1&style=for-the-badge&logo=Github&hit=false)
+  ![](https://vbr.nathanchung.dev/badge?page_id=Manonsigilla.visitor.badge.reloaded&color=ffb3c1&style=for-the-badge&logo=Github&hit=false)
 
 </div>
 
