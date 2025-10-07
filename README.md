@@ -60,11 +60,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
   <h3 align="left">PLAN TO LEARN</h3>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="java logo"  />
+  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" height="30" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="julia logo"  />
+  <img src="https://img.icons8.com/?size=100&id=v1yON9NhCDH8&format=png&color=000000" height="30" alt="julia logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="cplusplus logo"  />
+  <img src="https://img.icons8.com/?size=100&id=44328&format=png&color=000000" height="30" alt="cplusplus logo"  />
 </div>
 
 <div align="left">
