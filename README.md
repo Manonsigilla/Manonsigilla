@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on HTML, CSS, Python, PHP, React (JS), MySQL
 - 🌱 I’m currently learning WordPress
-- 👯 I’m looking to collaborate on HTML, SCSS, React, PHP, MySQL
+- 👯 I’m looking to collaborate on React, PHP, Python, MySQL
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: sigaudmanon@gmail.com
@@ -56,9 +56,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
-  <h3 align="left">PLAN TO LEARN</h3>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
+  <h3 align="left">PLAN TO LEARN</h3>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="julia logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="cplusplus logo"  />
 </div>
 
 <div align="left">
