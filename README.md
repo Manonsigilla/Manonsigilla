@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Manon and I'm a student developper from Belgium currently in France</h2>
 
-- 🔭 I’m currently working on HTML, CSS, Python, PHP, React (JS), MySQL
-- 🌱 I’m currently learning WordPress
+- 🔭 I’m currently working on HTML, CSS, Python, PHP, React (JS), MySQL, WordPress
+- 🌱 I’m currently student at La Plateforme, Marseille for "Bachelor IT" formation
 - 👯 I’m looking to collaborate on React, PHP, Python, MySQL
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
@@ -37,27 +37,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=kUQmxB5nr33M&format=png&color=000000" height="30" alt="markdown logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -65,16 +51,30 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=63208&format=png&color=000000" height="30" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
+  <img src="https://img.icons8.com/?size=100&id=aMLZmDlq6SvC&format=png&color=000000" height="30" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" height="30" alt="github logo"  />
   <h3 align="left">PLAN TO LEARN</h3>
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=v1yON9NhCDH8&format=png&color=000000" height="30" alt="julia logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=44328&format=png&color=000000" height="30" alt="cplusplus logo"  />
+  <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" height="30" alt="cplusplus logo"  />
 </div>
 
 <div align="left">
