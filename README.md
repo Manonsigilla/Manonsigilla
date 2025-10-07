@@ -80,7 +80,7 @@
 <div align="left">
 <h3>Visitors counter</h3>
   
-  ![Visiteurs](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Manonsigilla&title=Visitors&edge_flat=false)
+  ![](https://vbr.nathanchung.dev/badge?page_id=visitor-badge-reloaded-visitors&color=ffb3c1&style=for-the-badge&logo=Github&hit=false)
 
 </div>
 
