@@ -1,8 +1,8 @@
 <h2 align="left">Hi 👋! My name is Manon and I'm a student developper from Belgium currently in France</h2>
 
-- 🔭 I’m currently working on HTML, CSS, Python, PHP, React (JS), MySQL, WordPress
+- 🔭 I’m currently working on HTML, CSS, Python, PHP, React/TypeScript/Astro, MySQL, WordPress
 - 🌱 I’m currently student at La Plateforme, Marseille for "Bachelor IT" formation, I'm looking for a stage in IA & data
-- 👯 I’m looking to collaborate on React, PHP, Python, MySQL
+- 👯 I’m looking to collaborate on React, TypeScript, PHP, Python, MySQL
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: sigaudmanon@gmail.com
@@ -42,9 +42,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind-logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="30" alt="typescript-logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" height="30" alt="astro-logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
