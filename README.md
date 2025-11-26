@@ -11,19 +11,16 @@
 ###
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ManonSigilla&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" 
-    height="150" 
-    alt="GitHub Stats" 
-  />
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManonSigilla&layout=compact&theme=buefy&hide_border=true" 
-    height="150" 
-    alt="Top Langs" 
-  />
+  [![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=Manonsigilla&layout=compact&theme=dracula)](https://github.com/Manonsigilla/github-stats-card)
+
 </div>
 
+<div align="center">
+
+  [![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=Manonsigilla&layout=compact&type=donut&theme=dracula)](https://github.com/Manonsigilla/github-stats-card)
+  
+</div>
 
 ###
 
