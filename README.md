@@ -18,7 +18,7 @@
 
 <div align="center">
 
-  [![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=Manonsigilla&layout=compact&type=donut&theme=dracula)](https://github.com/Manonsigilla/github-stats-card)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manonsigilla&layout=compact&theme=dracula)
   
 </div>
 
