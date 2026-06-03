@@ -1,8 +1,8 @@
 <h2 align="left">Hi 👋! My name is Manon and I'm a student data analyst/scientist from Belgium currently in France</h2>
 
-- 🔭 I’m currently working on HTML, CSS, Python, SQL, PHP, React/TypeScript/Astro, MySQL, WordPress
+- 🔭 I’m currently working on HTML, CSS, Python, SQL, Power BI, Jupyter Notebook, PHP, React/TypeScript/Astro, MySQL, WordPress
 - 🌱 I’m currently student at La Plateforme, Marseille for "Bachelor IT" formation, I'm looking for a stage in IA & data
-- 👯 I’m looking to collaborate on Python, MySQL, SQL, React, TypeScript, PHP
+- 👯 I’m looking to collaborate on Python, Power BI, Jupyter Notebook, MySQL, SQL, React, TypeScript, PHP
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: sigaudmanon@gmail.com
@@ -51,6 +51,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="30" alt="typescript-logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" height="30" alt="astro-logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
