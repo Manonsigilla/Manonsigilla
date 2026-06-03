@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Manon and I'm a student developper from Belgium currently in France</h2>
+<h2 align="left">Hi 👋! My name is Manon and I'm a student data analyst/scientist from Belgium currently in France</h2>
 
-- 🔭 I’m currently working on HTML, CSS, Python, PHP, React/TypeScript/Astro, MySQL, WordPress
+- 🔭 I’m currently working on HTML, CSS, Python, SQL, PHP, React/TypeScript/Astro, MySQL, WordPress
 - 🌱 I’m currently student at La Plateforme, Marseille for "Bachelor IT" formation, I'm looking for a stage in IA & data
-- 👯 I’m looking to collaborate on React, TypeScript, PHP, Python, MySQL
+- 👯 I’m looking to collaborate on Python, MySQL, SQL, React, TypeScript, PHP
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: sigaudmanon@gmail.com
